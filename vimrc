@@ -13,3 +13,5 @@ source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
 "console
 language messages zh_CN.utf-8
+"语法高亮
+syntax on
